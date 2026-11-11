@@ -4357,7 +4357,7 @@
       "node_kind": "heading",
       "norm_label": "1. \ud83c\udfac tela base & animacao coreografada de entrada",
       "source_file": "README.md",
-      "source_location": "L34"
+      "source_location": "L36"
     },
     {
       "id": "readme_2_cat\u00e1logo_completo_de_31_temas_de_elite",
@@ -4369,7 +4369,7 @@
       "node_kind": "heading",
       "norm_label": "2. \ud83c\udfa8 catalogo completo de 31 temas de elite",
       "source_file": "README.md",
-      "source_location": "L41"
+      "source_location": "L43"
     },
     {
       "id": "readme_3_13_fontes_de_c\u00f3digo_com_ligaduras_nativas",
@@ -4381,7 +4381,7 @@
       "node_kind": "heading",
       "norm_label": "3. \ud83d\udd24 13 fontes de codigo com ligaduras nativas",
       "source_file": "README.md",
-      "source_location": "L47"
+      "source_location": "L49"
     },
     {
       "id": "readme_4_motor_de_shaders_procedurais_webgl_ogl_js",
@@ -4393,7 +4393,7 @@
       "node_kind": "heading",
       "norm_label": "4. \ud83d\udd2e motor de shaders procedurais webgl (ogl.js)",
       "source_file": "README.md",
-      "source_location": "L51"
+      "source_location": "L53"
     },
     {
       "id": "readme_5_agendador_agentes_hub_mcp_com_dados_mock_sanitizados",
@@ -4405,7 +4405,7 @@
       "node_kind": "heading",
       "norm_label": "5. \u26a1 agendador, agentes & hub mcp com dados mock sanitizados",
       "source_file": "README.md",
-      "source_location": "L60"
+      "source_location": "L62"
     },
     {
       "id": "readme_arquitetura_e_engenharia",
@@ -4417,7 +4417,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83c\udfdb\ufe0f arquitetura e engenharia",
       "source_file": "README.md",
-      "source_location": "L69"
+      "source_location": "L71"
     },
     {
       "id": "readme_autoria_portf\u00f3lio",
@@ -4429,7 +4429,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udc68\u200d\ud83d\udcbb autoria & portfolio",
       "source_file": "README.md",
-      "source_location": "L118"
+      "source_location": "L120"
     },
     {
       "id": "readme_aviso_oficial_de_demonstra\u00e7\u00e3o_frontend_only",
@@ -4441,7 +4441,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\udccc aviso oficial de demonstracao (frontend-only)",
       "source_file": "README.md",
-      "source_location": "L22"
+      "source_location": "L24"
     },
     {
       "id": "readme_como_executar_a_demo_localmente",
@@ -4453,7 +4453,7 @@
       "node_kind": "heading",
       "norm_label": "\ud83d\ude80 como executar a demo localmente",
       "source_file": "README.md",
-      "source_location": "L96"
+      "source_location": "L98"
     },
     {
       "id": "readme_destaques_da_experi\u00eancia_demonstrativa",
@@ -4465,7 +4465,7 @@
       "node_kind": "heading",
       "norm_label": "\u2728 destaques da experiencia demonstrativa",
       "source_file": "README.md",
-      "source_location": "L32"
+      "source_location": "L34"
     },
     {
       "id": "readme_google_antigravity_theme_studio_font_center_interactive_demo_showcase",
@@ -4489,7 +4489,7 @@
       "node_kind": "heading",
       "norm_label": "opcao 1: abrir diretamente no navegador",
       "source_file": "README.md",
-      "source_location": "L100"
+      "source_location": "L102"
     },
     {
       "id": "readme_op\u00e7\u00e3o_2_servidor_http_local_python_ou_node",
@@ -4501,7 +4501,7 @@
       "node_kind": "heading",
       "norm_label": "opcao 2: servidor http local (python ou node)",
       "source_file": "README.md",
-      "source_location": "L103"
+      "source_location": "L105"
     },
     {
       "id": "docs_shell_utilities",
@@ -15377,7 +15377,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L100",
+      "source_location": "L102",
       "weight": 1.0
     },
     {
@@ -15388,7 +15388,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L103",
+      "source_location": "L105",
       "weight": 1.0
     },
     {
@@ -15399,7 +15399,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L34",
+      "source_location": "L36",
       "weight": 1.0
     },
     {
@@ -15410,7 +15410,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L41",
+      "source_location": "L43",
       "weight": 1.0
     },
     {
@@ -15421,7 +15421,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L47",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
@@ -15432,7 +15432,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L51",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -15443,7 +15443,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L60",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -15454,7 +15454,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L118",
+      "source_location": "L120",
       "weight": 1.0
     },
     {
@@ -15465,7 +15465,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L22",
+      "source_location": "L24",
       "weight": 1.0
     },
     {
@@ -15476,7 +15476,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L32",
+      "source_location": "L34",
       "weight": 1.0
     },
     {
@@ -15487,7 +15487,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L69",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -15498,7 +15498,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "README.md",
-      "source_location": "L96",
+      "source_location": "L98",
       "weight": 1.0
     },
     {
@@ -15790,5 +15790,6 @@
       "weight": 1.0
     }
   ],
-  "hyperedges": []
+  "hyperedges": [],
+  "built_at_commit": "2eb17f5a241bf658544520ce77c28b7188a7a574"
 }

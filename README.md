@@ -9,8 +9,10 @@
 ![WebGL](https://img.shields.io/badge/WebGL_Engine-OGL.js_Shaders-00F0FF?style=for-the-badge)
 ![UI](https://img.shields.io/badge/Apple_Liquid_Glass-VisionOS_Design-0071E3?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Frontend-100%25_Standalone-EC4899?style=for-the-badge)
+![Deploy](https://img.shields.io/badge/Demo_Live-GitHub_Pages-22C55E?style=for-the-badge&logo=github&logoColor=white)
 
 **Vitrine de demonstração de software de alta fidelidade para o ecossistema Google Antigravity.**  
+🌐 **Demo Online ao Vivo:** **[mateuscelestinoprox.github.io/antigravity-theme-changer-demo](https://mateuscelestinoprox.github.io/antigravity-theme-changer-demo/)**  
 Projetada com arquitetura visual **Apple Liquid Glass**, motor gráfico de **Shaders WebGL procedurais (OGL.js)**, animação coreografada em cascata e catálogo completo de personalização.
 
 [✨ Acessar Demonstração](#-visão-geral-da-demonstração) • [🎨 Catálogo de Temas](#-catálogo-de-31-temas-de-elite) • [🔤 Fontes Pro](#-catálogo-de-13-fontes-com-ligaduras) • [🔮 Shaders WebGL](#-motor-de-shaders-webgl-ogljs) • [🏛️ Arquitetura](#️-arquitetura-e-engenharia) • [🚀 Como Executar](#-como-executar-a-demo-localmente)

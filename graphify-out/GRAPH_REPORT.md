@@ -1,13 +1,18 @@
 # Graph Report - antigravity-theme-changer-demo  (2026-11-11)
 
 ## Corpus Check
-- 8 files · ~83,070 words
+- 8 files · ~83,077 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
 - 465 nodes · 887 edges · 32 communities (26 shown, 6 thin omitted)
 - Extraction: 97% EXTRACTED · 3% INFERRED · 0% AMBIGUOUS · INFERRED: 24 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `2eb17f5a`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - copy
