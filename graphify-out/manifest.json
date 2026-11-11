@@ -1,0 +1,62 @@
+{
+  "js/ogl.js": {
+    "mtime": 1794411582.5239244,
+    "seen": 1794412365.515748,
+    "ast_hash": "270c0013e50daf1ee9ea55749051e2f5",
+    "semantic_hash": ""
+  },
+  "js/webgl-backgrounds.js": {
+    "mtime": 1794411582.5257304,
+    "seen": 1794412365.515751,
+    "ast_hash": "79cb41a66511e8bf1062e64d0da5a6b5",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1794412336.293198,
+    "seen": 1794412365.515753,
+    "ast_hash": "1fe18816e1b5f8fbe2d96fa8b9af85c1",
+    "semantic_hash": ""
+  },
+  "docs/AGENT_GUIDE.md": {
+    "mtime": 1794411582.5292695,
+    "seen": 1794412365.515754,
+    "ast_hash": "8dc3a537e05d47a06f81f0bcc3073244",
+    "semantic_hash": ""
+  },
+  "docs/AGENT_SELECTOR_RESTORATION.md": {
+    "mtime": 1794411582.5303178,
+    "seen": 1794412365.515754,
+    "ast_hash": "36e0a8b3d3f5015e92938920cc463c52",
+    "semantic_hash": ""
+  },
+  "docs/API_REFERENCE.md": {
+    "mtime": 1794411582.5307927,
+    "seen": 1794412365.515755,
+    "ast_hash": "e2a2ee50f12209fd14685d3d8f5be888",
+    "semantic_hash": ""
+  },
+  "docs/ARCHITECTURE.md": {
+    "mtime": 1794411582.5298066,
+    "seen": 1794412365.5157561,
+    "ast_hash": "10a494f24d3a027c116d66c0a35bc914",
+    "semantic_hash": ""
+  },
+  "docs/SHELL_UTILITIES.md": {
+    "mtime": 1794411582.531293,
+    "seen": 1794412365.515757,
+    "ast_hash": "bb048ca07ed7b182b61772bbd250f505",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1794412263.329083,
+    "seen": 1794412365.515757,
+    "ast_hash": "50557a64153ea6797dfe8db6647b0ade",
+    "semantic_hash": ""
+  },
+  "theme_changer_app.html": {
+    "mtime": 1794412263.3303227,
+    "seen": 1794412365.515758,
+    "ast_hash": "50557a64153ea6797dfe8db6647b0ade",
+    "semantic_hash": ""
+  }
+}
