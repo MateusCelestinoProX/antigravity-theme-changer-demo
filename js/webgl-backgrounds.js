@@ -1558,6 +1558,7 @@ function initDarkVeil(ctn, opts = {}) {
 // MAIN WEBGL BACKGROUND CONTROLLER
 // ==========================================
 window.renderWebGLBackground = function(type) {
+  try {
   const container = document.getElementById('bg-webgl-container');
   if (!container) return;
 
@@ -1734,6 +1735,9 @@ window.renderWebGLBackground = function(type) {
 
     default:
       break;
+  }
+  } catch (err) {
+    console.warn("[WebGL] Contexto WebGL não disponível ou erro no shader, usando fallback visual:", err.message);
   }
 };
 

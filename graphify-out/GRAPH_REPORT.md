@@ -1,7 +1,7 @@
-# Graph Report - antigravity-theme-changer-demo  (2026-11-11)
+# Graph Report - antigravity-theme-changer-demo  (2026-11-12)
 
 ## Corpus Check
-- 8 files · ~83,077 words
+- 8 files · ~83,167 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `2eb17f5a`
+- Built from commit: `121320c4`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 

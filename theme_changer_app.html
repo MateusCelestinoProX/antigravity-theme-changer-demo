@@ -2046,21 +2046,26 @@
     /* Mini-Menu Lateral Esquerdo (Apple Liquid Glass Minimalist) */
     .platform-sidebar {
       width: 68px;
-      background: rgba(10, 10, 14, 0.58) !important;
-      backdrop-filter: blur(20px) saturate(180%) !important;
-      -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+      height: 100vh !important;
+      max-height: 100vh !important;
+      background: rgba(10, 10, 14, 0.72) !important;
+      backdrop-filter: blur(24px) saturate(180%) !important;
+      -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
       border-right: 1px solid rgba(255, 255, 255, 0.12) !important;
-      position: fixed;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      z-index: 1000;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-between;
-      padding: 16px 0 18px;
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      bottom: 0 !important;
+      z-index: 1000 !important;
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+      padding: 16px 0 18px !important;
       box-shadow: none;
+      box-sizing: border-box !important;
+      overflow-y: auto !important;
+      overflow-x: hidden !important;
     }
 
     .sidebar-brand {
@@ -2097,14 +2102,16 @@
     }
 
     .sidebar-nav {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      align-items: center;
-      margin: auto 0;
+      display: flex !important;
+      flex-direction: column !important;
+      gap: 10px !important;
+      align-items: center !important;
+      margin: 16px 0 auto 0 !important;
+      width: 100%;
     }
 
     .slot-nav-item {
+      flex-shrink: 0 !important;
       position: relative;
       width: 42px;
       height: 42px;
@@ -3604,29 +3611,29 @@
 
     /* Stagger Animation for Platform Interface */
     .platform-layout.demo-animating-in {
-      animation: demoLayoutEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      animation: demoLayoutEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
     @keyframes demoLayoutEntrance {
-      0% { opacity: 0; filter: blur(14px); transform: scale(0.98); }
-      100% { opacity: 1; filter: blur(0); transform: scale(1); }
+      0% { opacity: 0; }
+      100% { opacity: 1; }
     }
 
-    .platform-layout.demo-animating-in .platform-sidebar {
-      animation: demoSidebarSlide 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    .platform-layout.demo-animating-in .platform-stage {
+      animation: demoStageEntrance 0.75s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
-    @keyframes demoSidebarSlide {
-      0% { opacity: 0; transform: translateX(-40px); }
-      100% { opacity: 1; transform: translateX(0); }
+    @keyframes demoStageEntrance {
+      0% { opacity: 0; filter: blur(8px); transform: translateY(16px); }
+      100% { opacity: 1; filter: blur(0); transform: translateY(0); }
     }
 
     .platform-layout.demo-animating-in .platform-topbar {
-      animation: demoTopbarSlide 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.08s forwards;
+      animation: demoTopbarSlide 0.75s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
     @keyframes demoTopbarSlide {
-      0% { opacity: 0; transform: translateY(-24px); }
+      0% { opacity: 0; transform: translateY(-16px); }
       100% { opacity: 1; transform: translateY(0); }
     }
 
@@ -4781,6 +4788,9 @@
       const layout = document.querySelector(".platform-layout");
       if (layout) {
         layout.classList.add("demo-animating-in");
+        setTimeout(() => {
+          layout.classList.remove("demo-animating-in");
+        }, 850);
       }
 
       // Staggered cascade animation para os cards de temas

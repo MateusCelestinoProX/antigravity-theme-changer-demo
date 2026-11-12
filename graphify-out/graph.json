@@ -2917,7 +2917,7 @@
       "file_type": "code",
       "norm_label": "hextorgbarr()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1769"
+      "source_location": "L1773"
     },
     {
       "id": "js_webgl_backgrounds_hextovec4arr",
@@ -2929,7 +2929,7 @@
       "file_type": "code",
       "norm_label": "hextovec4arr()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1775"
+      "source_location": "L1779"
     },
     {
       "id": "js_webgl_backgrounds_initacidsquares",
@@ -2941,7 +2941,7 @@
       "file_type": "code",
       "norm_label": "initacidsquares()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1792"
+      "source_location": "L1796"
     },
     {
       "id": "js_webgl_backgrounds_initbalatro",
@@ -2953,7 +2953,7 @@
       "file_type": "code",
       "norm_label": "initbalatro()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2069"
+      "source_location": "L2073"
     },
     {
       "id": "js_webgl_backgrounds_initbalatro_update",
@@ -2965,7 +2965,7 @@
       "file_type": "code",
       "norm_label": "update()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2152"
+      "source_location": "L2156"
     },
     {
       "id": "js_webgl_backgrounds_initdarkveil",
@@ -3025,7 +3025,7 @@
       "file_type": "code",
       "norm_label": "initlighttunnel()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2438"
+      "source_location": "L2442"
     },
     {
       "id": "js_webgl_backgrounds_initmoltenmetal",
@@ -3037,7 +3037,7 @@
       "file_type": "code",
       "norm_label": "initmoltenmetal()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2177"
+      "source_location": "L2181"
     },
     {
       "id": "js_webgl_backgrounds_initplasmawave",
@@ -3121,7 +3121,7 @@
       "file_type": "code",
       "norm_label": "inittopography()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2290"
+      "source_location": "L2294"
     },
     {
       "id": "js_webgl_backgrounds_initwebthreads",
@@ -3133,7 +3133,7 @@
       "file_type": "code",
       "norm_label": "initwebthreads()",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1928"
+      "source_location": "L1932"
     },
     {
       "id": "js_webgl_backgrounds_origintoflip",
@@ -10080,7 +10080,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1802",
+      "source_location": "L1806",
       "weight": 1.0
     },
     {
@@ -10092,7 +10092,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1872",
+      "source_location": "L1876",
       "weight": 1.0
     },
     {
@@ -10104,7 +10104,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1890",
+      "source_location": "L1894",
       "weight": 1.0
     },
     {
@@ -10116,7 +10116,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2076",
+      "source_location": "L2080",
       "weight": 1.0
     },
     {
@@ -10128,7 +10128,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2136",
+      "source_location": "L2140",
       "weight": 1.0
     },
     {
@@ -10140,7 +10140,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2149",
+      "source_location": "L2153",
       "weight": 1.0
     },
     {
@@ -10224,7 +10224,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2446",
+      "source_location": "L2450",
       "weight": 1.0
     },
     {
@@ -10236,7 +10236,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2509",
+      "source_location": "L2513",
       "weight": 1.0
     },
     {
@@ -10248,7 +10248,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2523",
+      "source_location": "L2527",
       "weight": 1.0
     },
     {
@@ -10260,7 +10260,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2186",
+      "source_location": "L2190",
       "weight": 1.0
     },
     {
@@ -10272,7 +10272,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2246",
+      "source_location": "L2250",
       "weight": 1.0
     },
     {
@@ -10284,7 +10284,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2260",
+      "source_location": "L2264",
       "weight": 1.0
     },
     {
@@ -10416,7 +10416,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2299",
+      "source_location": "L2303",
       "weight": 1.0
     },
     {
@@ -10428,7 +10428,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2368",
+      "source_location": "L2372",
       "weight": 1.0
     },
     {
@@ -10440,7 +10440,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2388",
+      "source_location": "L2392",
       "weight": 1.0
     },
     {
@@ -10452,7 +10452,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1937",
+      "source_location": "L1941",
       "weight": 1.0
     },
     {
@@ -10464,7 +10464,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2014",
+      "source_location": "L2018",
       "weight": 1.0
     },
     {
@@ -10476,7 +10476,7 @@
       "confidence_score": 1.0,
       "context": "call",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2032",
+      "source_location": "L2036",
       "weight": 1.0
     },
     {
@@ -15157,7 +15157,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1769",
+      "source_location": "L1773",
       "weight": 1.0
     },
     {
@@ -15168,7 +15168,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1775",
+      "source_location": "L1779",
       "weight": 1.0
     },
     {
@@ -15179,7 +15179,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1792",
+      "source_location": "L1796",
       "weight": 1.0
     },
     {
@@ -15201,7 +15201,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L1928",
+      "source_location": "L1932",
       "weight": 1.0
     },
     {
@@ -15234,7 +15234,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2069",
+      "source_location": "L2073",
       "weight": 1.0
     },
     {
@@ -15245,7 +15245,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2177",
+      "source_location": "L2181",
       "weight": 1.0
     },
     {
@@ -15256,7 +15256,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2290",
+      "source_location": "L2294",
       "weight": 1.0
     },
     {
@@ -15267,7 +15267,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2438",
+      "source_location": "L2442",
       "weight": 1.0
     },
     {
@@ -15642,7 +15642,7 @@
       "confidence_score": 0.85,
       "context": "argument",
       "source_file": "js/webgl-backgrounds.js",
-      "source_location": "L2157",
+      "source_location": "L2161",
       "weight": 1.0
     },
     {
@@ -15791,5 +15791,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "2eb17f5a241bf658544520ce77c28b7188a7a574"
+  "built_at_commit": "121320c46ea2d3fa1bcc9dbc774a5dbf827b9c54"
 }
